@@ -1,7 +1,7 @@
 <template>
 	<view class="page" v-if="!isLoading">
 
-		<view class="login-header">
+		<view class="login-header ss">
 			<view class="title">
 				<image src="https://eosine.cn/eos_tms/static/login/login-title-icon.png" mode=""
 					class="login-title-icon" @click=" isShowMYIP = !isShowMYIP ">
