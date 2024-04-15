@@ -1,0 +1,5 @@
+# 忽略跟踪的文件夹
+*.zip
+.hbuilderx
+unpackage/
+node_modules/
